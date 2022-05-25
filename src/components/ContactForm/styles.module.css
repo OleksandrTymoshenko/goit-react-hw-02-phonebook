@@ -18,8 +18,8 @@ input {
 }
 
 .submitButton {
-  background-color: #fff;
-  border: 1px solid grey;
+  background-color: pink;
+  border: 1px solid darkgrey;
   border-radius: 3px;
   display: inline-block;
   height: 20px;
